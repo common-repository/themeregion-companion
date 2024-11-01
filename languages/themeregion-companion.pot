@@ -1,0 +1,989 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ThemeRegion Companion\n"
+"POT-Creation-Date: 2019-04-07 11:23+0600\n"
+"PO-Revision-Date: 2019-04-07 11:23+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: themeregion-companion.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:248
+#: admin/partials/codestar-framework/classes/options.class.php:653
+msgid "No option provided by developer."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:266
+msgid "Restore"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:267
+msgid "update post for restore "
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/metabox.class.php:267
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:238
+#: admin/partials/codestar-framework/functions/actions.php:43
+#: admin/partials/codestar-framework/functions/actions.php:104
+#: admin/partials/codestar-framework/functions/actions.php:126
+msgid "Error while saving."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:285
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:295
+msgid "Default options restored."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:309
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:367
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:553
+msgid "show all options"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:555
+msgid "Search option(s)"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:558
+#: admin/partials/codestar-framework/classes/options.class.php:677
+msgid "Save"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:558
+#: admin/partials/codestar-framework/classes/options.class.php:677
+msgid "Saving..."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:559
+#: admin/partials/codestar-framework/classes/options.class.php:678
+msgid "Reset Section"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:559
+#: admin/partials/codestar-framework/classes/options.class.php:678
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:560
+#: admin/partials/codestar-framework/classes/options.class.php:679
+#: admin/partials/codestar-framework/fields/backup/backup.php:34
+msgid "Reset All"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/options.class.php:560
+#: admin/partials/codestar-framework/classes/options.class.php:679
+msgid "Are you sure to reset all options?"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:391
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:392
+msgid "Restoring options."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:393
+msgid "Importing options."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:430
+#, php-format
+msgid "Ooops! This field type (%s) can not be used here, yet."
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:473
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/setup.class.php:477
+msgid "This type is not found!"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/shortcoder.class.php:240
+msgid "Add one more"
+msgstr ""
+
+#: admin/partials/codestar-framework/classes/shortcoder.class.php:277
+msgid "Security check"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:34
+msgid "No background selected"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:62
+#: admin/partials/codestar-framework/fields/date/date.php:31
+msgid "From"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:79
+#: admin/partials/codestar-framework/fields/date/date.php:32
+msgid "To"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:96
+msgid "Direction"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:102
+msgid "Gradient Direction"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:103
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:104
+msgid "&#8658; left to right"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:105
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:106
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:145
+msgid "Background Position"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:146
+msgid "Left Top"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:147
+msgid "Left Center"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:148
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:149
+msgid "Center Top"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:150
+msgid "Center Center"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:151
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:152
+msgid "Right Top"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:153
+msgid "Right Center"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:154
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:171
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:172
+msgid "Repeat"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:173
+msgid "No Repeat"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:174
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:175
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:192
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:193
+msgid "Scroll"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:194
+msgid "Fixed"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:211
+msgid "Background Size"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:212
+msgid "Cover"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:213
+msgid "Contain"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:230
+msgid "Background Origin"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:231
+#: admin/partials/codestar-framework/fields/background/background.php:252
+msgid "Padding Box"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:232
+#: admin/partials/codestar-framework/fields/background/background.php:251
+msgid "Border Box"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:233
+#: admin/partials/codestar-framework/fields/background/background.php:253
+msgid "Content Box"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:250
+msgid "Background Clip"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:270
+msgid "Background Blend Mode"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:271
+#: admin/partials/codestar-framework/fields/typography/typography.php:173
+msgid "Normal"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:272
+msgid "Multiply"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:273
+msgid "Screen"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:274
+msgid "Overlay"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:275
+msgid "Darken"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:276
+msgid "Lighten"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:277
+msgid "Color Dodge"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:278
+msgid "Saturation"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:279
+#: admin/partials/codestar-framework/fields/link_color/link_color.php:36
+msgid "Color"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/background/background.php:280
+msgid "Luminosity"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:27
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:31
+msgid "Export and Download Backup"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/backup/backup.php:35
+msgid "Please be sure for reset all of options."
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:25
+#: admin/partials/codestar-framework/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:26
+#: admin/partials/codestar-framework/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:27
+#: admin/partials/codestar-framework/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:28
+#: admin/partials/codestar-framework/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:29
+#: admin/partials/codestar-framework/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:51
+#: admin/partials/codestar-framework/fields/typography/typography.php:201
+msgid "Solid"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:52
+#: admin/partials/codestar-framework/fields/typography/typography.php:204
+msgid "Dashed"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:53
+#: admin/partials/codestar-framework/fields/typography/typography.php:203
+msgid "Dotted"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:54
+#: admin/partials/codestar-framework/fields/typography/typography.php:202
+msgid "Double"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/border/border.php:59
+#: admin/partials/codestar-framework/fields/typography/typography.php:186
+#: admin/partials/codestar-framework/fields/typography/typography.php:200
+msgid "None"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/checkbox/checkbox.php:44
+#: admin/partials/codestar-framework/fields/radio/radio.php:43
+#: admin/partials/codestar-framework/fields/select/select.php:74
+msgid "No data provided for this option type."
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:23
+#: admin/partials/post-types.php:16
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:35
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:30
+msgid "Error: Nested field id can not be same with another nested field id."
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:46
+#: admin/partials/codestar-framework/fields/group/group.php:86
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:51
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:82
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:121
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:96
+msgid "You can not add more than"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/group/group.php:122
+#: admin/partials/codestar-framework/fields/repeater/repeater.php:97
+msgid "You can not remove less than"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/icon/icon.php:20
+#: admin/partials/codestar-framework/functions/actions.php:148
+msgid "Add Icon"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/media/media.php:23
+#: admin/partials/codestar-framework/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/media/media.php:24
+#: admin/partials/codestar-framework/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/media/media.php:57
+msgid "No media selected"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/textarea/textarea.php:37
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:83
+msgid "Font Family"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:84
+msgid "Select a font"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:92
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:106
+#: admin/partials/codestar-framework/fields/typography/typography.php:119
+#: admin/partials/codestar-framework/fields/typography/typography.php:132
+#: admin/partials/codestar-framework/fields/typography/typography.php:147
+#: admin/partials/codestar-framework/fields/typography/typography.php:163
+#: admin/partials/codestar-framework/fields/typography/typography.php:176
+#: admin/partials/codestar-framework/fields/typography/typography.php:190
+#: admin/partials/codestar-framework/fields/typography/typography.php:208
+msgid "Default"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:117
+msgid "Font Style"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:131
+#: admin/partials/codestar-framework/fields/typography/typography.php:132
+msgid "Load Extra Styles"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:145
+msgid "Subset"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:155
+msgid "Text Align"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:157
+msgid "Inherit"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:158
+msgid "Left"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:159
+msgid "Center"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:160
+msgid "Right"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:161
+msgid "Justify"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:162
+msgid "Initial"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:171
+msgid "Font Variant"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:174
+msgid "Small Caps"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:175
+msgid "All Small Caps"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:184
+msgid "Text Transform"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:187
+msgid "Capitalize"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:188
+msgid "Uppercase"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:189
+msgid "Lowercase"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:198
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:205
+msgid "Wavy"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:206
+msgid "Overline"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:207
+msgid "Line-through"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:220
+msgid "Font Size"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:232
+msgid "Line Height"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:244
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:256
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:271
+msgid "Font Color"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:282
+msgid "Custom Style"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:349
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:355
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: admin/partials/codestar-framework/fields/typography/typography.php:375
+msgid "Google Web Fonts"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/actions.php:35
+msgid "No data provided by developer"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/actions.php:152
+msgid "Search a Icon..."
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:14
+#: admin/partials/codestar-framework/functions/validate.php:86
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:32
+#: admin/partials/codestar-framework/functions/validate.php:106
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:50
+#: admin/partials/codestar-framework/functions/validate.php:126
+msgid "Error! This field is required!"
+msgstr ""
+
+#: admin/partials/codestar-framework/functions/validate.php:68
+#: admin/partials/codestar-framework/functions/validate.php:146
+msgid "Please write a valid url!"
+msgstr ""
+
+#: admin/partials/post-types.php:7
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: admin/partials/post-types.php:8
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: admin/partials/post-types.php:9 admin/partials/post-types.php:10
+#: admin/partials/post-types.php:36
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:91
+msgid "Portfolio"
+msgstr ""
+
+#: admin/partials/post-types.php:11
+msgid "Item Archives"
+msgstr ""
+
+#: admin/partials/post-types.php:12
+msgid "Item Attributes"
+msgstr ""
+
+#: admin/partials/post-types.php:13 admin/partials/post-types.php:68
+#: admin/partials/post-types.php:102
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/partials/post-types.php:14 admin/partials/post-types.php:66
+#: admin/partials/post-types.php:100
+msgid "All Items"
+msgstr ""
+
+#: admin/partials/post-types.php:15 admin/partials/post-types.php:70
+#: admin/partials/post-types.php:104
+msgid "Add New Item"
+msgstr ""
+
+#: admin/partials/post-types.php:17
+msgid "New Item"
+msgstr ""
+
+#: admin/partials/post-types.php:18 admin/partials/post-types.php:71
+#: admin/partials/post-types.php:105
+msgid "Edit Item"
+msgstr ""
+
+#: admin/partials/post-types.php:19 admin/partials/post-types.php:72
+#: admin/partials/post-types.php:106
+msgid "Update Item"
+msgstr ""
+
+#: admin/partials/post-types.php:20 admin/partials/post-types.php:73
+#: admin/partials/post-types.php:107
+msgid "View Item"
+msgstr ""
+
+#: admin/partials/post-types.php:21
+msgid "View Items"
+msgstr ""
+
+#: admin/partials/post-types.php:22
+msgid "Search Item"
+msgstr ""
+
+#: admin/partials/post-types.php:23
+msgid "Not found"
+msgstr ""
+
+#: admin/partials/post-types.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/partials/post-types.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: admin/partials/post-types.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: admin/partials/post-types.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/partials/post-types.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/partials/post-types.php:29
+msgid "Insert into item"
+msgstr ""
+
+#: admin/partials/post-types.php:30
+msgid "Uploaded to this item"
+msgstr ""
+
+#: admin/partials/post-types.php:31 admin/partials/post-types.php:81
+#: admin/partials/post-types.php:115
+msgid "Items list"
+msgstr ""
+
+#: admin/partials/post-types.php:32 admin/partials/post-types.php:82
+#: admin/partials/post-types.php:116
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/partials/post-types.php:33
+msgid "Filter items list"
+msgstr ""
+
+#: admin/partials/post-types.php:37
+msgid "Work type or case study for themeregion themes"
+msgstr ""
+
+#: admin/partials/post-types.php:63
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/post-types.php:64
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: admin/partials/post-types.php:65
+msgid "Category"
+msgstr ""
+
+#: admin/partials/post-types.php:67 admin/partials/post-types.php:101
+msgid "Parent Item"
+msgstr ""
+
+#: admin/partials/post-types.php:69 admin/partials/post-types.php:103
+msgid "New Item Name"
+msgstr ""
+
+#: admin/partials/post-types.php:74 admin/partials/post-types.php:108
+msgid "Separate items with commas"
+msgstr ""
+
+#: admin/partials/post-types.php:75 admin/partials/post-types.php:109
+msgid "Add or remove items"
+msgstr ""
+
+#: admin/partials/post-types.php:76 admin/partials/post-types.php:110
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/partials/post-types.php:77 admin/partials/post-types.php:111
+msgid "Popular Items"
+msgstr ""
+
+#: admin/partials/post-types.php:78 admin/partials/post-types.php:112
+msgid "Search Items"
+msgstr ""
+
+#: admin/partials/post-types.php:79 admin/partials/post-types.php:113
+msgid "Not Found"
+msgstr ""
+
+#: admin/partials/post-types.php:80 admin/partials/post-types.php:114
+msgid "No items"
+msgstr ""
+
+#: admin/partials/post-types.php:97
+msgctxt "Taxonomy General Name"
+msgid "Tags"
+msgstr ""
+
+#: admin/partials/post-types.php:98
+msgctxt "Taxonomy Singular Name"
+msgid "Tag"
+msgstr ""
+
+#: admin/partials/post-types.php:99
+msgid "Tags"
+msgstr ""
+
+#: public/partials/inc/tr.postlike.php:13 public/partials/tr.postlike.php:13
+msgid "Not permitted"
+msgstr ""
+
+#: public/partials/inc/tr.postlike.php:187 public/partials/tr.postlike.php:187
+msgid "Unlike"
+msgstr ""
+
+#: public/partials/inc/tr.postlike.php:191
+#: public/partials/inc/tr.postlike.php:305 public/partials/tr.postlike.php:191
+#: public/partials/tr.postlike.php:305
+msgid "Like"
+msgstr ""
+
+#: public/partials/inc/tr.postlike.php:321 public/partials/tr.postlike.php:321
+msgid "You Like:"
+msgstr ""
+
+#: public/partials/inc/tr.postlike.php:346 public/partials/tr.postlike.php:346
+msgid "You do not like anything yet."
+msgstr ""
+
+#: public/partials/inc/tr.postviews.php:7 public/partials/tr.postviews.php:7
+msgid "Views"
+msgstr ""
+
+#: public/partials/inc/tr.postviews.php:7 public/partials/tr.postviews.php:7
+msgid "View"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.image.title.php:14
+msgid "TRC: Image with Title"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.image.title.php:15
+msgid "This widget will show up an image with a title"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.image.title.php:140
+#: public/partials/inc/widgets/tr.mailchimp.php:65
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:85
+#: public/partials/inc/widgets/tr.social.php:146
+msgid "Title:"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.mailchimp.php:60
+msgid "Sign up for newsletter"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.mailchimp.php:61
+msgid "Enter your email to receive relevant messaging tips and examples."
+msgstr ""
+
+#: public/partials/inc/widgets/tr.mailchimp.php:70
+msgid "Description:"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.mailchimp.php:74
+msgid "Enter Shortcode"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:14
+msgid "Recent Posts"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:88
+msgid "Post Type:"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:90
+msgid "Post"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:94
+msgid "Number of posts to show:"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:98
+msgid "Display post date?"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:100
+msgid "Show Date Before/After Title:"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:102
+msgid "Before Title"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.recent.posts.widget.php:103
+msgid "After Title"
+msgstr ""
+
+#: public/partials/inc/widgets/tr.social.php:16
+msgid "TRC: Social Widget"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ThemeRegion Companion"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themeregion.com/extensions/themeregion-companion/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin comes with all the core libraries of themeregion themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeRegion"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeregion.com/"
+msgstr ""
